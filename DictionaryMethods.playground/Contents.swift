@@ -90,7 +90,7 @@ if let fast3rFilms = movies["The Fast and the Furious"] {
 }
 
 movies.removeValueForKey("The Fast and the Furious")
-
+print(movies)
 
 
 // COUNTING ITEMS
